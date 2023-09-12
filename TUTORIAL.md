@@ -38,7 +38,6 @@
 ![Alt text](image/image-5.png)
 
 - Dán vào tokenAuth theo cú pháp
-> mã code là token của tài khoản kayle@example.com
 ![Alt text](image/image-6.png)
 ```
     token c07efcd0e11f296e925d4d23a4d74be54c032bf0
