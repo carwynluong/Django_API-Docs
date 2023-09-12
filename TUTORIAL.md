@@ -44,7 +44,7 @@
 ```
 > mã code là token của tài khoản kayle@example.com
 
-- Khi thành công:
+- Successful:
 ![Alt text](image/image-7.png)
 
 ## RECIPE
